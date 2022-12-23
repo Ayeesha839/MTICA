@@ -5,5 +5,5 @@ if inpNum<0:
 elif inpNum%2==0:
     print("Even")
 else:
-    print("odd")
+    print("odd")  
     
